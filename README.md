@@ -11,6 +11,8 @@ The User interface, A mobile Application.
 Holds the business logic, database, and communicates with the AI module
 ### 3- AI
 artificial intelligence module, The bread and butter of this application. Will make suggestions for the users and uses their history meals to decide on their next ones.
+### 4- CI/CD
+We will have automated jobs that will help us with the continious integration. 
 
 ## how to document this project:
 Everyone will be responsible for a module in this project, So, Please in each directory, explain the things you did so that others can learn from it. 
